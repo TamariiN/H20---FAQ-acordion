@@ -1,0 +1,28 @@
+@media screen and (min-width: 1440px) {
+    .box{
+        width: 920px;
+        height: 509px;
+    }
+    .img{
+        top: 200px;
+        left: -150px;
+    }
+    .img .hi{
+        width: 513px;
+        height: 337px;
+    }
+    .ho{
+        /* width: 965px;
+        height: 568px;
+        top: 50px;
+        right: 50px; */
+        display: none;
+    }
+    .faq{
+        margin-top: 65px;
+        margin-left: 50px;
+    }
+    .questions{
+        margin-left: 257px;
+    }
+}
